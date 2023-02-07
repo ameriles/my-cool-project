@@ -17,3 +17,7 @@ Run CMake:
 ## Running the project
   
       ./HelloWorld
+
+## It displays the following message:
+
+    Hello, you All!
